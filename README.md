@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taamzid&label=Profile%20views&color=0e75b6&style=flat" alt="taamzid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tamzidwashere" target="blank"><img src="https://img.shields.io/twitter/follow/tamwas?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tamwas" target="blank"><img src="https://img.shields.io/twitter/follow/tamwas?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p>
 
 - 🌱 I’m currently learning **react.**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tamzidwashere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamzidwashere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad tamzidul alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad tamzidul alam" height="30" width="40" /></a>
+<a href="https://twitter.com/tamwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamzidwashere" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taamzid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad tamzidul alam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
