@@ -5,7 +5,7 @@
 
 
                                                         
-                                              - 💻 I’m currently learning **fullstack development.**
+- 💻 I’m currently learning **fullstack development.**
 
                                               - 💬 Ask me about **react, web development.**
 
