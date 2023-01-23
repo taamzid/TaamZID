@@ -5,11 +5,11 @@
 
 
                                                         
-                                                    - 💻 I’m currently learning **fullstack development.**
+                                                 - 💻 I’m currently learning **fullstack development.**
 
-                                                    - 💬 Ask me about **react, web development.**
+                                                 - 💬 Ask me about **react, web development.**
 
-                                                    - 📫 Reach me at **tamjidalam00@gmail.com**
+                                                 - 📫 Reach me at **tamjidalam00@gmail.com**
 
 <!--
 <h3 align="left">Connect with me:</h3>
