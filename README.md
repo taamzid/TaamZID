@@ -3,7 +3,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/tamwas" target="blank"><img src="https://img.shields.io/twitter/follow/tamwashere?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p> -->
 
-- 🌱 I’m currently learning **fullstack development.**
+
+- 💻 I’m currently learning **fullstack development.**
 
 - 💬 Ask me about **react, web development.**
 
