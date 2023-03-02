@@ -4,6 +4,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/tamwas" target="blank"><img src="https://img.shields.io/twitter/follow/tamwashere?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p> -->
 
 - Reach me at **tamjidalam00@gmail.com**
+- LinkedIn **MUHAMMAD TAMZIDUL ALAM** [https://www.linkedin.com/in/taamzid/]
 
 <!--
 <h3 align="left">Connect with me:</h3>
