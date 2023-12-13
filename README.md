@@ -2,7 +2,6 @@
 <h3>Software Engineer & Fullstack developer from Bangladesh 🇧🇩</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/tamwas" target="blank"><img src="https://img.shields.io/twitter/follow/tamwashere?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p> -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/web3w_tamzid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priti" height="30" width="40" /></a>
