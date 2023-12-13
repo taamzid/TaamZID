@@ -12,21 +12,6 @@
 
 </p>
 
-### About
-
--  **Learning :** Full-Stack Development | Open-Source | MERN | APIs | Web3 (Ethereum Ecosystem)  :zap:
--  **Languages :** Go(learning), JavaScript :fire:
--  **Framework:** React, NextJS, TS
--  **Hobbies :** Reading & listening to music :headphones:
--  **Fact :** I love sleeping :heart: 
-
-
-### <a href="https://hashnode.com/@pritisingh">Recent My Technical Articles On Hashnode</a>  
-
-
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&locale=en" alt="pritipsingh" /></span>
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritipsingh&show_icons=true&locale=en&layout=compact" alt="pritipsingh" /></span>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
