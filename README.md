@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Tamzid.</h1>
-<h3>Software Engineer from Bangladesh 🇧🇩</h3>
+<h3>Software Engineer & full-stack developer from Bangladesh 🇧🇩</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/tamwas" target="blank"><img src="https://img.shields.io/twitter/follow/tamwashere?logo=twitter&style=for-the-badge" alt="tamzidwashere" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
